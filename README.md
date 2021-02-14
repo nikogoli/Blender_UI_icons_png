@@ -7,7 +7,7 @@
 * 以下のアイコン画像(png)はこの svg ファイルから作成されており、同様に[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)のもとで提供する
 
 
-### アイコンをまとめたzip  (透過png形式)：　[20×20 のアイコン](https://github.com/nikogoli/Blender_UI_icons_png/main/png_icons(20_20).zip)、　[40×40 のアイコン](https://github.com/nikogoli/Blender_UI_icons_png/main/png_icons(40_40).zip)<br>
+### アイコンをまとめたzip  (透過png形式)：　[20×20 のアイコン](https://github.com/nikogoli/Blender_UI_icons_png/blob/33c78673d3efe16a6d5146a74873e20db5a9b66a/png_icons(20_20).zip)、　[40×40 のアイコン](https://github.com/nikogoli/Blender_UI_icons_png/blob/33c78673d3efe16a6d5146a74873e20db5a9b66a/png_icons(40_40).zip)<br>
 ※ スカルプトのブラシやキーフレームなど、含まれていないものもある<br>
 ※ 透過 + 白線 なので、白背景ではほぼ見えない<br>
 ※ 見落としでなければ、2.90 において未使用のアイコンが7個、重複するアイコンが2つ含まれる　
@@ -34,7 +34,7 @@ Inkscape などで svg を直接扱える人は、このファイルをいい感
 	※ 一部のインデックスはアイコンのマスに重なっているので邪魔になる
 1. 画像を、各々の得意な方法で分割する
 1. 分割された画像のうち、空白マスの画像を消去する
-1. [`names.txt`](https://github.com/nikogoli/Blender_UI_icons_png/main/names.txt)の中身をリストして読み込み、残りの画像の対して作成された順に適用する<br>
+1. [`names.txt`](https://github.com/nikogoli/Blender_UI_icons_png/blob/33c78673d3efe16a6d5146a74873e20db5a9b66a/names.txt)の中身をリストして読み込み、残りの画像の対して作成された順に適用する<br>
 	※ `names.txt`の中身は、「1行目の1列目のアイコン名 \n 2列目のアイコン名 \n 3列目 \n ・・・\n 2行目の1列目 \n 2列目 \n 3列目\n ・・・」となっている
 1. それぞれの画像を保存して終わり
 <br><br>
